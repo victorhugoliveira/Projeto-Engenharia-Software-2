@@ -7,7 +7,7 @@
                          - Criação do "botão" Sair;
                          - Melhoramento da Interface;
                          - Melhoramento Transição de Telas.
-    Versão: 1.1
+    Versão: 0.2
     Data: 23/04/2016
 
 
