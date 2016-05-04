@@ -70,4 +70,14 @@
       - Mudanças: 
 
 ----------------------------------------------------------------------------------------------------------
-      
+    # Projeto Sistema de Cálculo do Índice de Massa Corporal
+    - Atividades: 
+      - Atributos
+    - Data: 03/05/2016
+    
+  # Projeto Sistema de Conversão de Temperatura
+    - Atividades:
+      - Atributos 
+    - Data: 03/05/2016
+    
+    ----------------------------------------------------------------------------------------------------------
