@@ -81,3 +81,13 @@
     - Data: 03/05/2016
   
 ----------------------------------------------------------------------------------------------------------
+# Projeto Sistema de Cálculo do Índice de Massa Corporal
+  - Atividades:
+    - Média Salarial de um Programador em Linguagem C
+  - Data: 05/05/2016
+
+# Projeto Sistema de Conversão de Temperatura
+  - Atividades:
+    - Média Salarial de um Programador em Linguagem C
+  - Data: 05/05/2016
+  
