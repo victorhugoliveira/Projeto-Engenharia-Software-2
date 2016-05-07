@@ -3,13 +3,6 @@
 # Elicitação de Requisitos
   Data: 16/04/2016
 
-  # Projeto Sistema de Cálculo do Índice de Massa Corporal 
-    - Atividade: Elicitação de Requisitos 
-    - Data: 16/04/2016 
-    - Técnica utilizada para levantamento de Requisitos Conscientes: Entrevista 
-    - Técnica utilizada para levantamento de Requisitos subconscientes: Observação de campo
-    - Técnica utilizada para levantamento de Requisitos Inconscientes: Criatividade
-
   # Projeto Sistema de Conversão de Temperatura
     - Atividade: Elicitação de Requisitos 
     - Data: 16/04/2016 
@@ -21,12 +14,6 @@
 
 # Elaboração Caso de Uso
   Data: 19/04/2016
-  
-    # Projeto Sistema de Cálculo do Índice de Massa Corporal 
-      - Atividade: Elaboração dos Casos de Uso Diagrama e Textual
-      - Data: 19/04/2016 
-      - Diagrama de Caso de Uso
-      - Caso de Uso Textual 
 
     # Projeto Sistema de Conversão de Temperatura
       - Atividade: Elaboração dos Casos de Uso Diagrama e Textual
@@ -45,11 +32,6 @@
     
     Quando tratar-se de uma mudança "mais drástica" a identificação da versão será feita alterando o número pré ponto,anterior ao ponto (inteiro). Exemplo: Temos a Versão_0.1 
     Após uma mudança "mais drástica" no sistema: Versão_1.1
-    
-     # Projeto Sistema de Cálculo do Índice de Massa Corporal 
-      - Atividade: Implementação 
-      - Data: 21/04/2016 
-      - Versão: 0.1
       
      # Projeto Sistema de Conversão de Temperatura
       - Atividade: Implementação 
@@ -59,10 +41,6 @@
 ----------------------------------------------------------------------------------------------------------
 
 # Implementação Versão_0.2
-  # Projeto Sistema de Cálculo do Índice de Massa Corporal
-    - Data: 24/04/2016
-    - Versão: 0.2 
-    - Mudanças: 
   
   # Projeto Sistema de Conversão de Temperatura
       - Data: 24/04/2016
@@ -70,24 +48,20 @@
       - Mudanças: 
 
 ----------------------------------------------------------------------------------------------------------
-    # Projeto Sistema de Cálculo do Índice de Massa Corporal
-    - Atividades: 
-      - Atributos
-    - Data: 03/05/2016
-    
   # Projeto Sistema de Conversão de Temperatura
     - Atividades:
       - Atributos 
     - Data: 03/05/2016
   
 ----------------------------------------------------------------------------------------------------------
-# Projeto Sistema de Cálculo do Índice de Massa Corporal
-  - Atividades:
-    - Média Salarial de um Programador em Linguagem C
-  - Data: 05/05/2016
-
 # Projeto Sistema de Conversão de Temperatura
   - Atividades:
     - Média Salarial de um Programador em Linguagem C
   - Data: 05/05/2016
   
+----------------------------------------------------------------------------------------------------------
+# Projeto Sistema de Conversão de Temperatura
+  - Atividades: Diagrama de Fluxo de Dados (DFD)
+  - Data: 07/05/2016
+
+
