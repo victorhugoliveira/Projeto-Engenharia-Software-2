@@ -46,6 +46,9 @@
       - Data: 24/04/2016
       - Versão: 0.2 
       - Mudanças: 
+        - Criação do "botão" Sair;
+        - Melhoramento da Interface;
+        - Melhoramento Transição de Telas.
 
 ----------------------------------------------------------------------------------------------------------
   # Projeto Sistema de Conversão de Temperatura
