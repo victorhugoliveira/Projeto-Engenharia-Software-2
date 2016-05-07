@@ -16,7 +16,7 @@
 		- Público em geral, não existe restrição.
 
 	4. Qual o prazo para a montagem do sistema?
-		- Até 10/06. Primeira data de apresentação do projeto. 55 dias.
+		- Até 10/06. Primeira data de apresentação do projeto. 55 dias, desde a data desta elicitação.
 
 
 			Requisitos subconscientes – Observação de campo
