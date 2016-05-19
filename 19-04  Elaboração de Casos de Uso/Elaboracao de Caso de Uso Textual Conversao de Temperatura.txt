@@ -1,91 +1,58 @@
 			Caso de uso textual
 
-	1. Identificador: id_celsius
+	1. Identificador: 1.1
 	2.  Nome: Fornecer temperatura em graus Celsius
 	3. Autor: Victor Hugo
-	4. Prioridade: Requisito consciente (Satisfiers) -  M·xima
+	4. Prioridade: Requisito consciente (Satisfiers) -  M√°xima
 	5. Fonte: Carolina Reis
-	6. Respons·vel: Victor Hugo
-	7. DescriÁ„o: Fornecer a temperatura em graus Celsius para que o sistema faÁa a convers„o para Fahrenheit e para Kelvin
-	8. Atores: Usu·rio
-	9. Resultado: Exibir temperatura em outras escalas termomÈtricas (Fahrenheit e Kelvin)
-	10. Cen·rio Principal: O usu·rio ir· inserir a temperatura em graus Celsius
-
-
-
-
-
-
-
-
-
-
-
+	6. Respons√°vel: Victor Hugo
+	7. Descri√ß√£o: Fornecer a temperatura em graus Celsius para que o sistema fa√ßa a convers√£o para Fahrenheit e para Kelvin
+	8. Atores: Usu√°rio
+	9. Resultado: Exibir temperatura em outras escalas termom√©tricas (Fahrenheit e Kelvin)
+	10. Cen√°rio Principal: O usu√°rio ir√° inserir a temperatura em graus Celsius
 
 
 
 			Caso de uso textual
 
-	1. Identificador: id_f
+	1. Identificador: 1.2
 	2.  Nome: Converter para Fahrenheit
 	3. Autor: Victor Hugo
-	4. Prioridade: Requisito consciente (Satisfiers) - M·xima
+	4. Prioridade: Requisito consciente (Satisfiers) - M√°xima
 	5. Fonte: Carolina Reis
-	6. Respons·vel: Victor Hugo
-	7. DescriÁ„o: Fornecer a temperatura em graus Celsius para que o sistema faÁa a convers„o para Fahrenheit 
-	8. Atores: Usu·rio
-	9. Resultado: Exibir temperatura em outras escalas termomÈtricas (Fahrenheit e Kelvin)
-	10. Cen·rio Principal: ApÛs confirmaÁ„o do usu·rio, o sistema ir· realizar a convers„o para Fahrenheit
-
-
-
-
-
-
-
-
-
-
-
+	6. Respons√°vel: Victor Hugo
+	7. Descri√ß√£o: Fornecer a temperatura em graus Celsius para que o sistema fa√ßa a convers√£o para Fahrenheit 
+	8. Atores: Usu√°rio
+	9. Resultado: Exibir temperatura em outras escalas termom√©tricas (Fahrenheit e Kelvin)
+	10. Cen√°rio Principal: Ap√≥s confirma√ß√£o do usu√°rio, o sistema ir√° realizar a convers√£o para Fahrenheit
 
 
 
 			Caso de uso textual
 
-	1. Identificador: id_k
+	1. Identificador: 1.3
 	2.  Nome: Converter para Kelvin
 	3. Autor: Victor Hugo
-	4. Prioridade: Requisito consciente (Satisfiers) - M·xima
+	4. Prioridade: Requisito consciente (Satisfiers) - M√°xima
 	5. Fonte: Carolina Reis
-	6. Respons·vel: Victor Hugo
-	7. DescriÁ„o: Fornecer a temperatura em graus Celsius para que o sistema faÁa a convers„o para Kelvin
-	8. Atores: Usu·rio
-	9. Resultado: Exibir temperatura em outras escalas termomÈtricas (Fahrenheit e Kelvin)
-	10. Cen·rio Principal: ApÛs confirmaÁ„o do usu·rio, o sistema ir· realizar a convers„o para Kelvin
-
-
-
-
-
-
-
-
-
-
-
+	6. Respons√°vel: Victor Hugo
+	7. Descri√ß√£o: Fornecer a temperatura em graus Celsius para que o sistema fa√ßa a convers√£o para Kelvin
+	8. Atores: Usu√°rio
+	9. Resultado: Exibir temperatura em outras escalas termom√©tricas (Fahrenheit e Kelvin)
+	10. Cen√°rio Principal: Ap√≥s confirma√ß√£o do usu√°rio, o sistema ir√° realizar a convers√£o para Kelvin
 
 
 
 			Caso de uso textual
 
-	1. Identificador: id_resul
+	1. Identificador: 1.4
 	2.  Nome: Exibir resultado
 	3. Autor: Victor Hugo
-	4. Prioridade: Requisito subconsciente (Dissatisfiers) - MÈdia
+	4. Prioridade: Requisito subconsciente (Dissatisfiers) - M√©dia
 	5. Fonte: Carolina Reis
-	6. Respons·vel: Victor Hugo
-	7. DescriÁ„o: ApÛs entrada da temperatura em graus Celsius, o sistema faz a convers„o para Fahrenheit e para Kelvin
-	8. Atores: Usu·rio
-	9. Resultado: Exibir temperatura em outras escalas termomÈtricas (Fahrenheit e Kelvin)
-	10. Cen·rio Principal: ApÛs o c·lculo, o sistema exibir· o resultado da convers„o
+	6. Respons√°vel: Victor Hugo
+	7. Descri√ß√£o: Ap√≥s entrada da temperatura em graus Celsius, o sistema faz a convers√£o para Fahrenheit e para Kelvin
+	8. Atores: Usu√°rio
+	9. Resultado: Exibir temperatura em outras escalas termom√©tricas (Fahrenheit e Kelvin)
+	10. Cen√°rio Principal: Ap√≥s o c√°lculo, o sistema exibir√° o resultado da convers√£o
 
