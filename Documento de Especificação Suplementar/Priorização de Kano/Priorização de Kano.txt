@@ -1,20 +1,20 @@
-				Documento de EspecificaÁ„o Suplementar 
+						Documento de Especifica√ß√£o Suplementar 
 
-					PriorizaÁ„o de Kano 
+							Prioriza√ß√£o de Kano 
 
-Requisitos Esperados - Conscientes 
-TÈcnica de ElicitaÁ„o: Entrevista N„o Estruturada (Pesquisa) 
-	- Exemplos: 
-      		- Calcular/Converter da entrada de dados, temperatura em Celsius, para Kelvin e Fahrenheit
+	Requisitos Esperados - Conscientes 
+		T√©cnica de Elicita√ß√£o: Entrevista N√£o Estruturada (Pesquisa) 
+			- Exemplos: 
+      				- Calcular/Converter da entrada de dados, temperatura em Celsius, para Kelvin e Fahrenheit
         
  
-Requisitos B·sicos - Subconscientes 
-TÈcnica de ElicitaÁ„o: ObservaÁ„o de Campo (ObservaÁ„o) 
-	- Exemplos: 
-     		- Exibir o resultado dos c·lculos de convers„o de temperatura na tela 
+	Requisitos B√°sicos - Subconscientes 
+		T√©cnica de Elicita√ß√£o: Observa√ß√£o de Campo (Observa√ß√£o) 
+			- Exemplos: 
+     				- Exibir o resultado dos c√°lculos de convers√£o de temperatura na tela 
                
  
-Requisitos Inesperados ñ Inconscientes 
-TÈcnica de ElicitaÁ„o: (Criatividade) 
-	- Exemplos: 
-               - Layout/Interface/ApresentaÁ„o da saÌda de dados mais sofisticada graficamente, ìbonitaî. 
+	Requisitos Inesperados ‚Äì Inconscientes 
+		T√©cnica de Elicita√ß√£o: (Criatividade) 
+			- Exemplos: 
+               			- Layout/Interface/Apresenta√ß√£o da sa√≠da de dados mais sofisticada graficamente, ‚Äúbonita‚Äù. 
